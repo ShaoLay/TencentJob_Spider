@@ -7,6 +7,7 @@ import urllib2
 from lxml import etree
 
 
+
 class Spider:
 
     def run(self):
